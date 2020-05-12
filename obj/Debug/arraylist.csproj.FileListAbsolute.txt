@@ -1,0 +1,15 @@
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\arraylist.csprojAssemblyReference.cache
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\MainWindow.g.cs
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\App.g.cs
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\arraylist_MarkupCompile.cache
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\arraylist_MarkupCompile.lref
+C:\Users\Asadech\source\repos\arraylist\bin\Debug\arraylist.exe.config
+C:\Users\Asadech\source\repos\arraylist\bin\Debug\arraylist.exe
+C:\Users\Asadech\source\repos\arraylist\bin\Debug\arraylist.pdb
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\MainWindow.baml
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\arraylist.g.resources
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\arraylist.Properties.Resources.resources
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\arraylist.csproj.GenerateResource.cache
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\arraylist.exe
+C:\Users\Asadech\source\repos\arraylist\obj\Debug\arraylist.pdb
